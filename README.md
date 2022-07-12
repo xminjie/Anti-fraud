@@ -47,3 +47,12 @@ fraudar通过挖掘可疑致密子图找欺诈团伙。可用于挖掘刷单、�
 |                                    |                                                      |          |
 |                                    |                                                      |          |
 |                                    |                                                      |          |
+
+# 其他反欺诈分享者的链接
+
+|                    |                                                              |      |
+| ------------------ | ------------------------------------------------------------ | ---- |
+| 图反欺诈           | [https://github.com/safe-graph](https://github.com/safe-graph) |      |
+| 互联网业务风控介绍 | [https://github.com/fgyeason/algorithm-and-risk-management](https://github.com/fgyeason/algorithm-and-risk-management) |      |
+|                    |                                                              |      |
+
